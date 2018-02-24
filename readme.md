@@ -1,6 +1,6 @@
 # Lab
 
-Various experiments using CSS, JavaScript (ES6, canvas).
+Various experiments using CSS, SVG and JavaScript (ES6, canvas, TweenMax).
 
 ## Links
 
