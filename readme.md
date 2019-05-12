@@ -10,4 +10,4 @@ Various experiments using CSS, SVG and JavaScript (ES6, canvas, TweenMax).
 - [Parallax Card](https://www.spharian.be/lab/yellow-card-3d-parallax.html)
 - [Toggle Switch](https://www.spharian.be/lab/toggle-switch)
 - [Apple Sticky iMac Pro using CSS clip-path instead of Apple's canvas implementation](https://www.spharian.be/lab/apple-sticky-imac-pro.html)
-- [SVG Button Animation](https://www.spharian.be/lab/button-svg-hover.html) (inspired by Stripe)
+- [SVG Button Animation](https://www.spharian.be/lab/button-svg-hover.html) (inspired by [Stripe](https://stripe.com))
